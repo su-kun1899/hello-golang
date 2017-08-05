@@ -31,3 +31,7 @@ cd $GOPATH/src/github.com/su-kun1899/hello-golang
 go install
 hello-golang
 ```
+
+## Notes
+
+http://golang-jp.org/doc/code.html
